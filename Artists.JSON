@@ -1,0 +1,247 @@
+
+[
+    {
+    "singerId": "ab124235",
+    "singerName": "Barbara Marks",
+    "monthlyFollowers": "127693",
+    "popularSongs":{
+        " Up and Down":{
+            "Bass": "0.985",
+            "BPM": "125"
+        },
+        " Be mine ":{
+            "Bass": "0.885",
+            "BPM": "130"
+        }, 
+        "House of York":{
+            "Bass": "0.885",
+            "BPM": "128"
+        }
+    },
+    "recentDateRelease": "2023-05-06",
+    "markets": "142"
+    },
+    
+    {
+        "singerId": "ab65214",
+    "singerName": "David Peters",
+    "monthlyFollowers": "14652",
+    "popularSongs":{
+        "Room 10":{
+            "Bass": "0.785",
+            "BPM": "125"
+        },
+        " We Ate":{
+            "Bass": "0.895",
+            "BPM": "120"
+        }, 
+        " Yasss!":{
+            "Bass": "0.885",
+            "BPM": "135"
+        }
+    },
+    "recentDateRelease": "2023-03-14",
+    "markets": "142"
+    },
+
+    {
+        "singerId": "ab25871",
+    "singerName": "Themba Mzuzu",
+    "monthlyFollowers": "16258",
+    "popularSongs":{
+        "Ukhalelani":{
+            "Bass": "0.600",
+            "BPM": "125"
+        },
+        "iKapa":{
+            "Bass": "0.925",
+            "BPM": "130"
+        }, 
+        "Sizobuya":{
+            "Bass": "0.720",
+            "BPM": "125"
+        }
+    },
+    "recentDateRelease": "2023-08-15",
+    "markets": "142"
+    },
+
+    {
+        "singerId": "ab54178",
+    "singerName": "Mr.7",
+    "monthlyFollowers": "25478",
+    "popularSongs":{
+        "Hip Life":{
+            "Bass": "0.985",
+            "BPM": "125"
+        },
+        " You":{
+            "Bass": "0.885",
+            "BPM": "130"
+        }, 
+        "Amsterdam":{
+            "Bass": "0.885",
+            "BPM": "128"
+        }
+    },
+    "recentDateRelease": "2018-07-25",
+    "markets": "142"
+    },
+
+    {
+        "singerId": "ab44789",
+    "singerName": "Patricia Skyes",
+    "monthlyFollowers": "1554789",
+    "popularSongs":{
+        "I did not see it coming":{
+            "Bass": "0.985",
+            "BPM": "125"
+        },
+        "911":{
+            "Bass": "0.885",
+            "BPM": "130"
+        }, 
+        "I forgot":{
+            "Bass": "0.885",
+            "BPM": "128"
+        }
+    },
+    "recentDateRelease": "2023-10-10",
+    "markets": "160"
+    },
+
+    {
+        "singerId": "ab87412",
+        "singerName": "The Pants",
+        "monthlyFollowers": "214587",
+        "popularSongs":{
+        "Depends":{
+            "Bass": "0.985",
+            "BPM": "125"
+        },
+        "Have manners ":{
+            "Bass": "0.885",
+            "BPM": "130"
+        }, 
+        "Can't Beat it":{
+            "Bass": "0.885",
+            "BPM": "128"
+        }
+        },
+        "recentDateRelease": "2022-12-18",
+        "markets": "160"
+    },
+
+    {
+        "singerId": "ab32145",
+    "singerName": "Uasi",
+    "monthlyFollowers": "58742",
+    "popularSongs":{
+        "Post me":{
+            "Bass": "0.985",
+            "BPM": "125"
+        },
+        " OPS":{
+            "Bass": "0.885",
+            "BPM": "130"
+        }, 
+        "Living":{
+            "Bass": "0.885",
+            "BPM": "128"
+        }
+    },
+    "recentDateRelease": "2020-11-09",
+    "markets": "132"
+    },
+
+    {
+        "singerId": "ab78954",
+        "singerName": "Jack J",
+        "monthlyFollowers": "1897457",
+        "popularSongs":{
+        "Able":{
+            "Bass": "0.800",
+            "BPM": "150"
+        },
+        "Call Me":{
+            "Bass": "0.910",
+            "BPM": "140"
+        }, 
+        "Unite":{
+            "Bass": "0.750",
+            "BPM": "125"
+        }
+        },
+        "recentDateRelease": "2023-04-23",
+        "markets": "69"
+    },
+
+    {
+        "singerId": "ab29873",
+        "singerName": "Zim",
+        "monthlyFollowers": "835541",
+        "popularSongs":{
+        "Body":{
+            "Bass": "0.385",
+            "BPM": "130"
+        },
+        "Cha Ching":{
+            "Bass": "0.485",
+            "BPM": "140"
+        }, 
+        "Never":{
+            "Bass": "0.285",
+            "BPM": "118"
+        }
+        },
+        "recentDateRelease": "2022-12-30",
+        "markets": "100"
+    },
+
+    {
+        "singerId": "ab56541",
+        "singerName": "Miss Wag",
+        "monthlyFollowers": "1005123",
+        "popularSongs":{
+        "Schön":{
+            "Bass": "0.500",
+            "BPM": "120"
+        },
+        "weiße Rose":{
+            "Bass": "0.650",
+            "BPM": "125"
+        }, 
+        "Blau":{
+            "Bass": "0.750",
+            "BPM": "140"
+        }
+        },
+        "recentDateRelease": "2023-08-03",
+        "markets": "192"
+    },
+
+    {
+        "singerId": "ab12458",
+        "singerName": "KeR",
+        "monthlyFollowers": "798542",
+        "popularSongs":{
+        "Bliss":{
+            "Bass": "0.800",
+            "BPM": "118"
+        },
+        "Pastor preach":{
+            "Bass": "0.640",
+            "BPM": "120"
+        }, 
+        "Wild":{
+            "Bass": "0.440",
+            "BPM": "150"
+        }
+        },
+        "recentDateRelease": "2023-02-15",
+        "markets": "192"
+    }
+
+    
+
+]
